@@ -1,0 +1,108 @@
+.container0{
+    background-image:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.2)), url("images/mal.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+ 
+
+}
+.head{
+    font-size: 60px;
+    color: aliceblue;
+    text-align: center;
+    letter-spacing: 5px;   
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.form{
+    background-color:rgb(244, 244, 244);
+    text-align: center;
+    padding: 20px;
+}
+.term{
+    text-justify: auto;
+    text-align: justify;
+}
+.radio{
+    text-align: left;
+}
+.submit{
+    background-color: rgb(3, 192, 213);
+    border: rgb(3, 192, 213);
+    height: 30px;
+    width: 200px;
+    color: aliceblue;
+    font-weight: 100;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.text{
+    border: solid black 1.2px;
+    width: 240px;
+    height: 25px;
+    border-radius: 4px;
+}
+.para{
+    color: aliceblue;
+    text-align: center;
+    font-size: x-large;
+    font-weight: 800;
+    padding-bottom: 40px;
+
+}
+.info{
+    text-align: center;
+    height: 80vh;
+    padding-top: 70px;
+    
+}
+.blue{
+    color: rgb(3, 192, 213); ;
+}
+.container1{
+   display: flex;
+   gap:40px;
+    justify-content: center;
+    align-items: center;
+}
+.bn{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(3, 192, 213);
+    border: rgb(3, 192, 213);
+    height: 35px;
+    width: 200px;
+    color: aliceblue;
+    font-weight: 100;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+form{
+    text-align: center;
+}
+.bns{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.foot{
+    display: flex;
+    background-color: rgb(205, 243, 247);
+    justify-content: center;
+    align-items: center;
+    padding: 35px;
+    padding-left: 35px;
+    padding-right: 240px;
+    font-family:  'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;;
+}
+.ambassador{
+    text-align: center;
+}
+.note{
+    text-align: center;
+    padding: 35px;
+}
